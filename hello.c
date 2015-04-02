@@ -6,4 +6,5 @@ int main(void)
   //This is the last change
  // this is the second change
   printf("hello, world in feature1\n");
+  printf("hello, world\n");
 }
